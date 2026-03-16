@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/candido/javadoctest/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/candido/javadoctest/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javadoctest 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'javadoctest 1.0-SNAPSHOT API'
+com.example
+/home/candido/javadoctest/src/main/java = 1773689373746
+/home/candido/javadoctest/target/reports/apidocs/link.svg = 1773693376655
+/home/candido/javadoctest/target/reports/apidocs/stylesheet.css = 1773693376651
+/home/candido/javadoctest/target/reports/apidocs/module-search-index.js = 1773693376619
+/home/candido/javadoctest/target/reports/apidocs/copy.svg = 1773693376654
+/home/candido/javadoctest/target/reports/apidocs/help-doc.html = 1773693376649
+/home/candido/javadoctest/target/reports/apidocs/index-all.html = 1773693376637
+/home/candido/javadoctest/target/reports/apidocs/package-search-index.js = 1773693376620
+/home/candido/javadoctest/target/reports/apidocs/search.html = 1773693376640
+/home/candido/javadoctest/target/reports/apidocs/allpackages-index.html = 1773693376618
+/home/candido/javadoctest/target/reports/apidocs/search.js = 1773693376658
+/home/candido/javadoctest/target/reports/apidocs/allclasses-index.html = 1773693376614
+/home/candido/javadoctest/target/reports/apidocs/element-list = 1773693376548
+/home/candido/javadoctest/target/reports/apidocs/tag-search-index.js = 1773693376621
+/home/candido/javadoctest/target/reports/apidocs/search-page.js = 1773693376660
+/home/candido/javadoctest/target/reports/apidocs/member-search-index.js = 1773693376620
+/home/candido/javadoctest/target/reports/apidocs/index.html = 1773693376642
+/home/candido/javadoctest/target/reports/apidocs/type-search-index.js = 1773693376620
+/home/candido/javadoctest/target/reports/apidocs/script.js = 1773693376653
+/home/candido/javadoctest/target/reports/apidocs/overview-tree.html = 1773693376591
